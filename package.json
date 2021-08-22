@@ -1,0 +1,25 @@
+{
+  "name": "consume-serve-zip-files",
+  "version": "1.0.0",
+  "description": "consume-serve-zip-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriramcs/consume-serve-zip-files.git"
+  },
+  "keywords": [
+    "zip",
+    "react",
+    "node",
+    "express"
+  ],
+  "author": "shriramcs@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shriramcs/consume-serve-zip-files/issues"
+  },
+  "homepage": "https://github.com/shriramcs/consume-serve-zip-files#readme"
+}
